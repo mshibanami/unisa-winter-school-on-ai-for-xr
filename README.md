@@ -32,7 +32,6 @@ Using Convai's Embodied Actions, the color of Riley's heart automatically change
 
 1. Get your Convai API Key:
    - Sign up for a free account at [Convai](https://convai.com).
-   - Create a new project and get your API Key.
    - Select the key icon in the top right corner of the Convai dashboard, and copy the API Key.
 2. Install [Unity](https://unity.com/download)
 3. Clone this repository using Git.
